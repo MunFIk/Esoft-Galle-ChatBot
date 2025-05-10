@@ -1,0 +1,56 @@
+ESOFT Galle Chatbot - Test Conversation Flows
+
+1. Basic Greetings
+-----------------
+- hi
+- hello
+- how are you?
+- good morning
+- what can you do?
+
+2. Course 1: Diploma in IT
+-------------------------
+- tell me about courses
+- tell me about diploma in it
+- what are the requirements?
+- how much is it?
+- when are the classes?
+- who teaches it?
+- what will i learn?
+- what can i do after this?
+- is it valid?
+
+3. Course 2: Bachelor of Business Management
+-----------------------------------------
+- what about business management?
+- what do i need to join?
+- how much is the fee?
+- when are the classes?
+- who is the lecturer?
+- what will i study?
+- what jobs can i get?
+- is this course good?
+
+4. General Information
+--------------------
+- how can i contact you?
+- where are you located?
+- what are your opening hours?
+- do you have online classes?
+- how do i register?
+
+5. Edge Cases
+------------
+- [empty message]
+- asdfgh
+- !@#$%^&*()
+- 12345
+- deploma in it
+- DiPLoMa iN IT
+
+Testing Guidelines:
+1. Follow each conversation flow naturally
+2. Check if bot understands simple questions
+3. Verify context is maintained
+4. Test switching between courses
+5. Check response formatting 
